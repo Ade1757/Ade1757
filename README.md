@@ -21,7 +21,7 @@ I design and automate **end-to-end analytics workflows**, combining:
 Interactive dashboard integrating FAO & World Bank data for African and Asian coastal fisheries.  
 **Tech:** R, Shiny, Plotly, tidyverse  
 🔗 Live App: [Coastal Fisheries Insights](https://adeniran.shinyapps.io/Coastal_Fisheries_Insight/)  
-📁 Repo: *(add repo once you upload)*
+📁 Repo: 
 
 ---
 
@@ -39,7 +39,7 @@ Portfolio of Power BI dashboards covering:
 ### 🔹 3. Economic Resilience Index (R + Shiny)
 Framework developed for the **ZOE Institute (Germany)** to evaluate economic resilience of small-island states.  
 **Tech:** R, Shiny, tidymodels, index modelling  
-📁 Repo: *(upload code if possible)*
+📁 Repo: 
 
 ---
 
@@ -49,7 +49,7 @@ End-to-end automated pipelines built at **JobPricing**, integrating:
 - R pipelines (tidyverse + model workflows)  
 - Power BI service  
 - Statistical modelling & predictive analytics  
-📁 Repo: *(you can share a simplified version without confidential data)*
+📁 Repo: 
 
 ---
 
@@ -59,7 +59,7 @@ A collection of scripts for:
 - Cointegration  
 - Regression models (OLS, FE, RE)  
 - Oaxaca-Blinder decomposition  
-📁 Repo: *(add repo once uploaded)*  
+📁 Repo:  
 
 ---
 
